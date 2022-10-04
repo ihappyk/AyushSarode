@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @AyushSarode<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning Reactjs
+👋 Hi, I’m @AyushSarode<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning Reactjs<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
