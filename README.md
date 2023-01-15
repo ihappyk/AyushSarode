@@ -24,5 +24,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=AyushSarode&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AyushSarode&label=Profile%20views&color=ce9927&style=flat" alt=AyushSarode" /> </p>
