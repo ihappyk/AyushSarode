@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 - 🔭 I’m currently High School Student  <br>- 🌱 I’m currently learning ReactJS  <br>- ⚡I love Open Source 
 
@@ -23,3 +24,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AyushSarode&icon=0&color=0)](https://visitcount.itsvg.in)
+<div>
