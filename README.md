@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# 💫 About Me- 
 - 🔭 I’m currently High School Student  <br>- 🌱 I’m currently learning ReactJS  <br>- ⚡I love Open Source 
 
 <div align="center">
