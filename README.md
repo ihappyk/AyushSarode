@@ -1,8 +1,8 @@
-<div align="center">
+
 # 💫 About Me:
 - 🔭 I’m currently High School Student  <br>- 🌱 I’m currently learning ReactJS  <br>- ⚡I love Open Source 
 
-
+<div align="center">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayush-Sarode) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AyushSarode07) 
 
